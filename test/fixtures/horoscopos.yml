@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  signos_id: 
+  data: 2016-05-02
+  previsao: MyText
+
+two:
+  signos_id: 
+  data: 2016-05-02
+  previsao: MyText
