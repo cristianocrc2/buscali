@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  evento: MyString
+  cidade: MyString
+  data: 2016-05-02
+  descricao: MyText
+  ativo: false
+
+two:
+  evento: MyString
+  cidade: MyString
+  data: 2016-05-02
+  descricao: MyText
+  ativo: false
